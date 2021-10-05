@@ -117,7 +117,7 @@ if __name__ == "__main__":
                     print(inventario.cuidadores)
 
 
-
+        ##
         if opcion == 2:
             opcion2=int(input("\nPara guardar un Perro ingrese 1\n"
                                "Para guardar un Gato ingrese 2\n"
