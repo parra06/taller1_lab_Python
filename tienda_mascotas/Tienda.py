@@ -211,44 +211,7 @@ if __name__ == "__main__":
 
 
 
-    #g = Gato("Juanito","Siames",4,"Negro",5,35000)
-    """p = Perro("Mapache", "Pitbull",1,"Blanco y Negro",9, 2000)"""
-    #h= Hamster("Pedro",1,"Amarillo",0.5,10,15000)
-    """saver.guardar_bd(g)
-    saver.guardar_bd(p)
-    saver.guardar_bd(h)"""
-    #a = Accesorio("Hueso","Hueso para que el perro fortalezca sus dientes",10000, "Perro" )
-    """saver.guardar_bd(a)"""
 
-    #c = Cuidador("5555555","Santiago","Parra",20,"31138369","Cra 10 bla bla")
-    """#saver.guardar_bd(c)"""
-
-    #p = Perro("Mapache", "Pitbull", 1, "Blanco y Negro", 9, 2000)
-    """p1 = Perro("Lucas", "Pitbull", 1, "Blanco y Negro", 9, 2000)
-    g = Gato("Juanito", "Siames", 4, "Negro", 5, 35000)
-    h = Hamster("Pedro", 1, "Amarillo", 0.5, 10, 15000)
-   
-    saver.save_json(p1)"""
-    #saver.save_json(p)
-    #saver.save_json(g)
-    #saver.save_json(h)
-
-    #saver.save_json(c)
-    #saver.save_json(a)
-
-
-    """print(inventario.mascotas)
-
-
-
-
-
-
-    operacion = Operacion()
-    #operacion.buscar_objeto()
-    operacion.vender()
-    cargar_file()
-    print(inventario.mascotas)"""
 
 
 
